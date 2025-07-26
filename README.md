@@ -1,9 +1,7 @@
 # AprendaCPPParaGamesUE
-Repositório de Códigos Fontes Do Curso: Aprendendo programação básica e avançada com Linguagem C++ do Professor  Marcos Pacheco
-Quer Aprender C++? [Aproveite e se inscreva no curso aqui!](https://www.udemy.com/course/cmaismaisbasico/?referralCode=956A556D144A0F4D36EC)
+Repositório de Códigos Fontes Do Curso: Aprendendo programação básica e avançada com Linguagem C++ do Professor  Marcos Pacheco.
 
 Curso: Aprendendo programação básica e avançada com Linguagem C++
-[Disponível na Udemy Clique Aqui!](https://www.udemy.com/course/cmaismaisbasico/?referralCode=956A556D144A0F4D36EC)
 
 Oi Tudo bem com você? Espero que sim!  
 
